@@ -1,6 +1,6 @@
 # shop_app
 
-A new Flutter project.
+An app made with flutter, shop app is an app where you can creat an account, use it to sell and buy anything you want. after creating and signing in you will be able to manage your own products (which you wanna sell them) and also browsing and buying anything else. you can add products to your cart, also you can mark any product as your favorite.
 
 ## Getting Started
 
